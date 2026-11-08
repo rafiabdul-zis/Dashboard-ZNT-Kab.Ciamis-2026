@@ -2,7 +2,7 @@
 
 Dashboard interaktif berbasis Web GIS modern untuk monitoring dan evaluasi pencapaian titik sampel surveyor Zona Nilai Tanah (ZNT) di wilayah **Kabupaten Ciamis, Jawa Barat**.
 
-Didesain dan dikembangkan dengan arsitektur, tampilan, dan fungsionalitas identik dengan standar [Dashboard ZNT Cilacap 2026](https://almanzra99-prog.github.io/Dashboard-ZNT-Kab.Cilacap-2026/), dan telah dimuat dengan **data riil resmi Kabupaten Ciamis**:
+
 - **490 Poligon Zona Kajian ZNT Kabupaten Ciamis** (dari data shapefile BPN Ciamis).
 - **1.340 Titik Sampel Survei Lapangan SIPENTA** lengkap dengan koordinat spasial, harga penawaran/transaksi, luasan tanah, dan nilai per $m^2$.
 - **3 Surveyor Resmi Kabupaten Ciamis 2026**:
