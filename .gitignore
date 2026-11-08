@@ -1,0 +1,11 @@
+# Intermediate & raw shapefile data
+data/raw/
+data/temp/
+scratch/
+
+# Temporary & system files
+*.log
+*.tmp
+__pycache__/
+.DS_Store
+Thumbs.db
