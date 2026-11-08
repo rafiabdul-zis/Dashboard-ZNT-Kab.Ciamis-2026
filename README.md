@@ -84,9 +84,9 @@ Anda juga dapat langsung mengklik ganda berkas **`index.html`** pada File Explor
 
 ### Cara 3: Publikasikan ke GitHub Pages (Online Gratis)
 Agar rekan-rekan tim surveyor dan pimpinan kantor BPN dapat membukanya secara online dari HP atau laptop masing-masing:
-1. Buat repository baru di GitHub (misal: `Dashboard-ZNT-Kab.Ciamis-2026`).
-2. Unggah (*upload*) seluruh berkas proyek ini ke repositori tersebut.
-3. Buka menu **Settings** > **Pages** di repositori GitHub.
+1. Buat repository baru di [GitHub](https://github.com/new) (misal bernama: `Dashboard-ZNT-Kab.Ciamis-2026`).
+2. Klik ganda berkas **`PUSH_TO_GITHUB.bat`**, lalu masukkan link repository GitHub Anda.
+3. Buka menu **Settings** > **Pages** di repositori GitHub Anda.
 4. Pada opsi *Build and deployment*, pilih Branch `main` (folder `/root`), lalu klik **Save**.
 5. Dashboard Anda akan aktif di alamat:
    `https://<username-anda>.github.io/Dashboard-ZNT-Kab.Ciamis-2026/`
