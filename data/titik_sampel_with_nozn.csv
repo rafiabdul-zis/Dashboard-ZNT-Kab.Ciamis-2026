@@ -4,7 +4,7 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 3,01/2026/0054/1/0003,59,59N,Zee Treaz,2026-10-11,Penawaran,TK,jl Ciamis,Kelurahan Kertasari,Kecamatan Ciamis,535.0,1528495000.0,2628361.7260274,1,108.37097,-7.32612
 4,01/2026/0054/1/0004,59,59N,Zee Treaz,2026-10-11,Penawaran,TK,jl. desa kertasari,Kelurahan Kertasari,Kecamatan Ciamis,1960.0,5488000000.0,2575923.28767123,1,108.3654,-7.32606
 5,01/2026/0054/1/0005,136,136N,Zee Treaz,2026-10-11,Penawaran,TK,dusun bojongnangoh,Desa Cijeungjing,Kecamatan Cijeungjing,1064.0,202000000.0,174656.452775775,1,108.38013,-7.31448
-6,01/2026/0054/1/0006,136,136N,Zee Treaz,2026-10-11,Penawaran,TK,desa kertaharja,Desa Kertaharja,Kecamatan Cijeungjing,202.0,33000000.0,150292.553912926,1,108.40357,-7.31955
+6,01/2026/0054/1/0006,136,136N,Zee Treaz,2026-10-11,Penawaran,TK,desa kertaharja,Desa Kertaharja,Kecamatan Cijeungjing,201.0,33000000.0,151040.278061746,1,108.40357,-7.31955
 7,01/2026/0054/1/0007,457,457N,Zee Treaz,2026-10-11,Penawaran,TK,jl.cibangkonol,Desa Kertaharja,Kecamatan Cijeungjing,200.0,35000000.0,160995.205479452,1,108.40869,-7.3184
 8,01/2026/0054/1/0008,457,457N,Zee Treaz,2026-10-11,Penawaran,TK,jl. karanganyar,Desa Karanganyar,Kecamatan Cijeungjing,215.0,34000000.0,145484.039503026,1,108.41739,-7.3183
 9,01/2026/0054/1/0009,457,457N,Zee Treaz,2026-10-11,Penawaran,TK,kertabumi,Desa Kertabumi,Kecamatan Cijeungjing,288.0,49000000.0,156523.116438356,1,108.42726,-7.32527
@@ -125,7 +125,6 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 130,01/2026/0054/2/0026,215,215P,Agung Fauzi,2026-10-14,Penawaran,TK,jl. jayaraksa,Desa Jayaraksa,Kecamatan Cimaragas,600.0,42000000.0,64346.301369863,2,108.444,-7.37833
 131,01/2026/0054/2/0027,215,215P,Agung Fauzi,2026-10-14,Penawaran,TK,jl.jayaraksa,Desa Jayaraksa,Kecamatan Cimaragas,1245.0,94000000.0,69403.9280409309,2,108.44771,-7.38149
 132,01/2026/0054/2/0028,215,215P,Agung Fauzi,2026-10-14,Penawaran,TK,jl.jayaraksa,Desa Jayaraksa,Kecamatan Cimaragas,2600.0,200000000.0,70710.2212855637,2,108.44258,-7.38703
-133,01/2026/0054/2/0029,323,323P,Julio Arya,2026-10-14,Penawaran,TK,Desa Tanjungjaya,Desa Tanjungjaya,Kecamatan Cisaga,4000.0,650000000.0,149375.342465753,2,108.49588,-7.30682
 134,01/2026/0054/2/0030,327,327P,Julio Arya,2026-10-14,Penawaran,TK,Jl.Desa Karyamulya,Desa Karyamulya,Kecamatan Cisaga,3800.0,450000000.0,108856.524873828,2,108.50458,-7.32739
 135,01/2026/0054/1/0105,430,430N,Julio Arya,2026-10-14,Penawaran,TK,Jl.Ciminyak,Desa Karyamulya,Kecamatan Cisaga,24000.0,3133000000.0,119998.191780822,1,108.50642,-7.333
 136,01/2026/0054/1/0106,430,430N,Julio Arya,2026-10-14,Penawaran,TK,J.Ciminyak No.23,Desa Mekarmukti,Kecamatan Cisaga,900.0,186000000.0,189974.794520548,1,108.51445,-7.3449
@@ -143,9 +142,9 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 148,01/2026/0054/1/0114,352,352N,Zee Treaz,2026-10-14,Transaksi,TK,jl mekarsari,Kelurahan Mekarsari,Kecamatan Cipaku,83.0,27390000.0,337684.931506849,1,108.40078,-7.24642
 149,01/2026/0054/1/0115,352,352N,Zee Treaz,2026-10-14,Penawaran,TK,jl selamanik,Desa Selamanik,Kecamatan Cipaku,460.0,165600000.0,330923.835616438,1,108.40297,-7.25296
 150,01/2026/0054/1/0116,352,352N,Zee Treaz,2026-10-14,Penawaran,TK,jalan tanpa nama,Kelurahan Mekarsari,Kecamatan Cipaku,160.0,38400000.0,220615.890410959,1,108.40979,-7.25147
-151,01/2026/0054/1/0117,356,356N,Zee Treaz,2026-10-14,Transaksi,TK,jl raksadinata,Desa Salakaria,Kecamatan Sukadana,57.0,13680000.0,245128.767123288,1,108.41498,-7.2582
-152,01/2026/0054/1/0118,356,356N,Zee Treaz,2026-10-14,Transaksi,TK,jl raksadinata,Desa Salakaria,Kecamatan Sukadana,160.0,43200000.0,287235.616438356,1,108.41831,-7.26341
-153,01/2026/0054/1/0119,356,356N,Zee Treaz,2026-10-14,Penawaran,TK,jl cisena,Desa Sukadana,Kecamatan Sukadana,230.0,73600000.0,294154.520547945,1,108.43107,-7.26266
+151,01/2026/0054/1/0117,354,354N,Zee Treaz,2026-10-14,Transaksi,TK,jl raksadinata,Desa Salakaria,Kecamatan Sukadana,57.0,13680000.0,245128.767123288,1,108.41498,-7.2582
+152,01/2026/0054/1/0118,354,354N,Zee Treaz,2026-10-14,Transaksi,TK,jl raksadinata,Desa Salakaria,Kecamatan Sukadana,160.0,43200000.0,287235.616438356,1,108.41831,-7.26341
+153,01/2026/0054/1/0119,354,354N,Zee Treaz,2026-10-14,Penawaran,TK,jl cisena,Desa Sukadana,Kecamatan Sukadana,230.0,73600000.0,294154.520547945,1,108.43107,-7.26266
 154,01/2026/0054/1/0120,362,362N,Zee Treaz,2026-10-14,Transaksi,TK,jl mekarsari,Kelurahan Mekarsari,Kecamatan Cipaku,65.0,19500000.0,317589.04109589,1,108.41705,-7.24412
 155,01/2026/0054/1/0121,362,362N,Zee Treaz,2026-10-14,Penawaran,TK,jl mekarsari,Kelurahan Mekarsari,Kecamatan Cipaku,435.0,117450000.0,248192.876712329,1,108.41804,-7.24073
 156,01/2026/0054/1/0122,362,362N,Zee Treaz,2026-10-14,Transaksi,TK,jl mekarsari,Kelurahan Mekarsari,Kecamatan Cipaku,80.0,28000000.0,387493.150684931,1,108.40569,-7.23747
@@ -158,9 +157,9 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 163,01/2026/0054/1/0129,98,98N,Zee Treaz,2026-10-14,Penawaran,TK,jl nanggerang,Desa Gereba,Kecamatan Cipaku,434.0,147560000.0,312539.178082192,1,108.36883,-7.20125
 164,01/2026/0054/1/0130,98,98N,Zee Treaz,2026-10-14,Transaksi,TK,jl kartaharja,Desa Cieurih,Kecamatan Cipaku,108.0,28620000.0,284239.726027397,1,108.36986,-7.21733
 165,01/2026/0054/1/0131,98,98N,Zee Treaz,2026-10-14,Penawaran,TK,jl selamanik,Desa Selamanik,Kecamatan Cipaku,148.0,41440000.0,257385.205479452,1,108.37694,-7.22105
-166,01/2026/0054/1/0132,64,64N,Zee Treaz,2026-10-14,Penawaran,TK,jl raya kawali,Desa Selamanik,Kecamatan Cipaku,4900.0,931000000.0,174654.246575342,1,108.38427,-7.21919
-167,01/2026/0054/1/0133,64,64N,Zee Treaz,2026-10-14,Transaksi,TK,jl selacai,Desa Selacai,Kecamatan Cipaku,219.0,35040000.0,164821.917808219,1,108.3835,-7.21421
-168,01/2026/0054/1/0134,64,64N,Zee Treaz,2026-10-14,Transaksi,TK,jl raya kawali,Desa Selamanik,Kecamatan Cipaku,610.0,73200000.0,122761.643835616,1,108.38222,-7.22954
+166,01/2026/0054/1/0132,64,64N,Zee Treaz,2026-10-14,Penawaran,TK,jl raya kawali,Desa Selamanik,Kecamatan Cipaku,4900.0,1300000000.0,243878.110148169,1,108.38427,-7.21919
+167,01/2026/0054/1/0133,64,64N,Zee Treaz,2026-10-14,Transaksi,TK,jl selacai,Desa Selacai,Kecamatan Cipaku,219.0,60000000.0,282229.311315444,1,108.3835,-7.21421
+168,01/2026/0054/1/0134,64,64N,Zee Treaz,2026-10-14,Transaksi,TK,jl raya kawali,Desa Selamanik,Kecamatan Cipaku,610.0,97000000.0,162675.948798563,1,108.38222,-7.22954
 169,01/2026/0054/2/0035,246,246P,Agung Fauzi,2026-10-15,Penawaran,TK,Jl.cidolog,Desa Bojongmalang,Kecamatan Cimaragas,1960.0,170000000.0,79707.9955269779,2,108.45085,-7.3957
 170,01/2026/0054/2/0036,215,215P,Agung Fauzi,2026-10-15,Penawaran,TK,jl.beber,Desa Beber,Kecamatan Cimaragas,700.0,25000000.0,32820.939334638,2,108.41909,-7.37745
 171,01/2026/0054/2/0037,215,215P,Agung Fauzi,2026-10-15,Penawaran,TK,jl.raksabaya,Desa Raksabaya,Kecamatan Cimaragas,3642.0,320000000.0,80745.6387804383,2,108.45082,-7.39268
@@ -297,9 +296,9 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 303,01/2026/0054/1/0201,47,47N,Zee Treaz,2026-10-16,Penawaran,TK,jl sadapaingan,Desa Sadapaingan,Kecamatan Panawangan,80.0,19200000.0,220497.534246575,1,108.35008,-7.05807
 304,01/2026/0054/1/0202,47,47N,Zee Treaz,2026-10-16,Penawaran,TK,jl sadapaingan,Desa Sadapaingan,Kecamatan Panawangan,160.0,40000000.0,229684.931506849,1,108.35968,-7.06256
 305,01/2026/0054/1/0203,47,47N,Zee Treaz,2026-10-16,Penawaran,TK,jl sadapaingan,Desa Sadapaingan,Kecamatan Panawangan,200.0,42000000.0,192935.342465753,1,108.3576,-7.06608
-306,01/2026/0054/1/0204,36,36N,Zee Treaz,2026-10-16,Penawaran,TK,jl girilaya,Desa Girilaya,Kecamatan Panawangan,70.0,170000000.0,2231225.04892368,1,108.36119,-7.08076
-307,01/2026/0054/1/0205,36,36N,Zee Treaz,2026-10-16,Penawaran,TK,jl girilaya,Desa Girilaya,Kecamatan Panawangan,120.0,261500000.0,2002086.98630137,1,108.36667,-7.08568
-308,01/2026/0054/1/0206,36,36N,Zee Treaz,2026-10-16,Penawaran,TK,jl cinyasag,Desa Cinyasag,Kecamatan Panawangan,116.0,303000000.0,2399811.52574398,1,108.37155,-7.09026
+306,01/2026/0054/1/0204,36,36N,Zee Treaz,2026-10-16,Penawaran,TK,jl girilaya,Desa Girilaya,Kecamatan Panawangan,70.0,19000000.0,249372.211350294,1,108.36119,-7.08076
+307,01/2026/0054/1/0205,36,36N,Zee Treaz,2026-10-16,Penawaran,TK,jl girilaya,Desa Girilaya,Kecamatan Panawangan,120.0,28800000.0,220497.534246575,1,108.36667,-7.08568
+308,01/2026/0054/1/0206,36,36N,Zee Treaz,2026-10-16,Penawaran,TK,jl cinyasag,Desa Cinyasag,Kecamatan Panawangan,116.0,34000000.0,269285.781766651,1,108.37155,-7.09026
 309,01/2026/0054/1/0207,418,418N,Zee Treaz,2026-10-16,Transaksi,TK,jl indragiri,Desa Indragiri,Kecamatan Panawangan,264.0,47520000.0,198739.726027397,1,108.36799,-7.1119
 310,01/2026/0054/1/0208,418,418N,Zee Treaz,2026-10-16,Penawaran,TK,jl kertajaya,Desa Kertajaya,Kecamatan Panawangan,266.0,58520000.0,202122.739726027,1,108.35227,-7.11289
 311,01/2026/0054/1/0209,418,418N,Zee Treaz,2026-10-16,Penawaran,TK,jl Kertayasa,Desa Kertayasa,Kecamatan Panawangan,68.0,14960000.0,202122.739726027,1,108.34706,-7.12187
@@ -734,9 +733,9 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 748,01/2026/0054/1/0312,81,81N,Agung Fauzi,2026-10-24,Penawaran,TK,jl angganaya,Desa Imbanagara,Kecamatan Ciamis,581.0,600000000.0,946747.45950534,1,108.31182,-7.32404
 749,01/2026/0054/1/0313,459,459N,Julio Arya,2026-10-24,Penawaran,TK,Jl.Sudirman,Desa Cisontrol,Kecamatan Rancah,700.0,100000000.0,130966.731898239,1,108.52109,-7.20435
 750,01/2026/0054/1/0314,81,81N,Agung Fauzi,2026-10-24,Penawaran,TK,jl. imbanagara raya,Desa Imbanagararaya,Kecamatan Ciamis,130.0,95000000.0,669945.205479452,1,108.30267,-7.31746
-751,01/2026/0054/1/0315,69,69N,Agung Fauzi,2026-10-24,Penawaran,TK,jl. kiansantang,Kelurahan Maleber,Kecamatan Ciamis,856.0,490000000.0,524784.918704391,1,108.34806,-7.32071
-752,01/2026/0054/1/0316,69,69N,Agung Fauzi,2026-10-24,Penawaran,TK,jl. martadinata,Kelurahan Maleber,Kecamatan Ciamis,185.0,140000000.0,693769.7149204,1,108.35263,-7.32143
-753,01/2026/0054/1/0317,69,69N,Agung Fauzi,2026-10-24,Penawaran,TK,jl. siliwangi 2,Kelurahan Maleber,Kecamatan Ciamis,402.0,225000000.0,513115.927213249,1,108.35046,-7.31822
+751,01/2026/0054/1/0315,69,69N,Agung Fauzi,2026-10-24,Penawaran,TK,jl. kiansantang,Kelurahan Maleber,Kecamatan Ciamis,856.0,950000000.0,1017440.14850851,1,108.34806,-7.32071
+752,01/2026/0054/1/0316,69,69N,Agung Fauzi,2026-10-24,Penawaran,TK,jl. martadinata,Kelurahan Maleber,Kecamatan Ciamis,185.0,350000000.0,1734424.287301,1,108.35263,-7.32143
+753,01/2026/0054/1/0317,69,69N,Agung Fauzi,2026-10-24,Penawaran,TK,jl. siliwangi 2,Kelurahan Maleber,Kecamatan Ciamis,402.0,500000000.0,1140257.61602944,1,108.35046,-7.31822
 754,01/2026/0054/1/0318,459,459N,Julio Arya,2026-10-24,Penawaran,TK,Jl.Sudirman,Desa Situmandala,Kecamatan Rancah,900.0,155000000.0,157887.671232877,1,108.52682,-7.20127
 755,01/2026/0054/1/0319,72,72N,Agung Fauzi,2026-10-24,Penawaran,TK,jln siliwangi 2,Kelurahan Maleber,Kecamatan Ciamis,324.0,159000000.0,449894.97716895,1,108.34985,-7.32073
 756,01/2026/0054/1/0320,72,72N,Agung Fauzi,2026-10-24,Penawaran,TK,jl siliwangi 1,Kelurahan Maleber,Kecamatan Ciamis,433.0,283000000.0,599180.360024044,1,108.35077,-7.32222
@@ -999,7 +998,7 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 1014,01/2026/0054/1/0415,298,298N,Julio Arya,2026-10-31,Penawaran,TK,Jl.desa Patakaharja,Desa Patakaharja,Kecamatan Rancah,582.0,80000000.0,125778.844795933,1,108.50844,-7.16716
 1015,01/2026/0054/1/0416,1,1N,Agung Fauzi,2026-10-31,Penawaran,TK,jl. raya nasional lll,Desa Budiharja,Kecamatan Sindangkasih,742.0,1590000000.0,1960802.3483366,1,108.22098,-7.28877
 1016,01/2026/0054/1/0417,53,53N,Agung Fauzi,2026-10-30,Penawaran,TK,jl. ancol,Desa Sukasenang,Kecamatan Sindangkasih,770.0,1600000000.0,1901896.45970468,1,108.23857,-7.29934
-1017,01/2026/0054/1/0418,455,455N,Agung Fauzi,2026-10-31,Penawaran,B,jl. sukahurip,Desa Sukamulya,Kecamatan Cihaurbeuti,200.0,919000000.0,2283027.53424658,1,108.20323,-7.27554
+1017,01/2026/0054/1/0418,455,455N,Agung Fauzi,2026-10-31,Penawaran,B,jl. sukahurip,Desa Sukamulya,Kecamatan Cihaurbeuti,200.0,700000000.0,1143801.36986301,1,108.20323,-7.27554
 1018,01/2026/0054/2/0600,297,297P,Julio Arya,2026-10-31,Penawaran,TK,Jl.Desa Dadiharja,Desa Dadiharja,Kecamatan Rancah,890.0,90000000.0,92532.2456518393,2,108.50857,-7.14825
 1019,01/2026/0054/1/0419,54,54N,Agung Fauzi,2026-10-31,Penawaran,B,jl. sukasenang,Desa Sukasenang,Kecamatan Sindangkasih,350.0,1350000000.0,2113309.19765166,1,108.24723,-7.29652
 1020,01/2026/0054/2/0601,449,449P,Agung Fauzi,2026-10-31,Penawaran,TK,jl. sukamanah,Desa Sukamanah,Kecamatan Sindangkasih,1319.0,110000000.0,76311.2362001101,2,108.23871,-7.25988
@@ -1053,7 +1052,7 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 1069,01/2026/0054/2/0637,331,331P,Zee Treaz,2026-11-01,Penawaran,TK,jl petirhilir,Desa Petirhilir,Kecamatan Baregbeg,545.0,136250000.0,228698.630136986,2,108.38385,-7.30926
 1070,01/2026/0054/1/0433,451,451N,Agung Fauzi,2026-11-01,Penawaran,TK,jl. sukahurip,Desa Sukahurip,Kecamatan Cihaurbeuti,399.0,200000000.0,458543.619322278,1,108.2254,-7.25247
 1071,01/2026/0054/2/0638,56,56P,Agung Fauzi,2026-11-01,Penawaran,TK,jl mancagar,Desa Sukamaju,Kecamatan Cihaurbeuti,1222.0,400000000.0,299441.741586889,2,108.215,-7.25786
-1072,01/2026/0054/2/0639,345,345P,Zee Treaz,2026-11-01,Penawaran,TK,jl petirhilir,Desa Petirhilir,Kecamatan Baregbeg,471.0,101000000.0,196166.128610069,2,108.37832,-7.30614
+1072,01/2026/0054/2/0639,331,331P,Zee Treaz,2026-11-01,Penawaran,TK,jl petirhilir,Desa Petirhilir,Kecamatan Baregbeg,471.0,101000000.0,196166.128610069,2,108.37832,-7.30614
 1073,01/2026/0054/1/0434,469,469N,Julio Arya,2026-11-01,Penawaran,TK,Jl.Gudang,Desa Andapraja,Kecamatan Rajadesa,673.0,80000000.0,108742.290704065,1,108.47354,-7.16913
 1074,01/2026/0054/1/0435,469,469N,Julio Arya,2026-11-01,Penawaran,TK,Jl.Cibangkong,Desa Kawunglarang,Kecamatan Rancah,1235.0,165000000.0,122219.510842438,1,108.48541,-7.16238
 1075,01/2026/0054/1/0436,300,300N,Julio Arya,2026-11-01,Penawaran,TK,Jl.Kuta,Desa Kawunglarang,Kecamatan Rancah,1280.0,130000000.0,92908.8184931507,1,108.48699,-7.15788
@@ -1077,7 +1076,7 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 1093,01/2026/0054/2/0651,401,401P,Julio Arya,2026-11-02,Penawaran,TK,Jl.Desa Tanjungjaya,Desa Tanjungjaya,Kecamatan Rajadesa,367.0,45000000.0,112138.031428465,2,108.44674,-7.17767
 1094,01/2026/0054/2/0652,401,401P,Julio Arya,2026-11-02,Penawaran,TK,Jl.Desa Sirnajaya,Desa Sirnajaya,Kecamatan Rajadesa,2896.0,350000000.0,110528.929841822,2,108.44101,-7.17159
 1095,01/2026/0054/2/0653,401,401P,Julio Arya,2026-11-02,Penawaran,TK,Jl.Desa Sirnajaya,Desa Sirnajaya,Kecamatan Rajadesa,144.0,15000000.0,95265.4109589041,2,108.43417,-7.16764
-1096,01/2026/0054/2/0654,486,486P,Agung Fauzi,2026-11-02,Penawaran,TK,jl. desa pamokolan,Desa Pamokolan,Kecamatan Cihaurbeuti,781.0,1700000000.0,1990693.35063933,2,108.20236,-7.19642
+1096,01/2026/0054/2/0654,486,486P,Agung Fauzi,2026-11-02,Penawaran,TK,jl. desa pamokolan,Desa Pamokolan,Kecamatan Cihaurbeuti,781.0,250000000.0,292749.022152842,2,108.20236,-7.19642
 1097,01/2026/0054/1/0443,231,231N,Zee Treaz,2026-11-02,Penawaran,TK,jl puloerang,Desa Puloerang,Kecamatan Lakbok,307.0,87495000.0,260646.164383562,1,108.6152,-7.4065
 1098,01/2026/0054/2/0655,13,13P,Agung Fauzi,2026-11-02,Penawaran,TK,jl. desa padamulya,Desa Padamulya,Kecamatan Cihaurbeuti,3524.0,585000000.0,151819.111221681,2,108.21589,-7.19865
 1099,01/2026/0054/2/0656,3,3P,Agung Fauzi,2026-11-02,Penawaran,TK,jl. desa padamulya,Desa Padamulya,Kecamatan Cihaurbeuti,680.0,170000000.0,228636.98630137,2,108.21238,-7.20225
@@ -1088,7 +1087,7 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 1104,01/2026/0054/2/0659,232,232P,Zee Treaz,2026-11-01,Penawaran,TK,jl tanpa nama,Desa Sukanagara,Kecamatan Lakbok,697.0,49487000.0,64950.4109589041,2,108.64944,-7.40237
 1105,01/2026/0054/1/0446,4,4N,Agung Fauzi,2026-11-02,Penawaran,TK,jl. gang desa pamokolan,Desa Pamokolan,Kecamatan Cihaurbeuti,873.0,430000000.0,450464.623640729,1,108.20671,-7.1943
 1106,01/2026/0054/1/0447,213,213N,Zee Treaz,2026-11-02,Penawaran,TK,jl kalapasawit,Desa Kalapasawit,Kecamatan Lakbok,981.0,279585000.0,260646.164383562,1,108.66838,-7.39457
-1107,01/2026/0054/2/0660,486,486P,Agung Fauzi,2026-11-02,Penawaran,TK,jl. raya pamokolan - panumbangan,Desa Padamulya,Kecamatan Cihaurbeuti,700.0,1500000000.0,1959745.59686888,2,108.20021,-7.20981
+1107,01/2026/0054/2/0660,486,486P,Agung Fauzi,2026-11-02,Penawaran,TK,jl. raya pamokolan - panumbangan,Desa Padamulya,Kecamatan Cihaurbeuti,700.0,200000000.0,261299.412915851,2,108.20021,-7.20981
 1108,01/2026/0054/1/0448,213,213N,Zee Treaz,2026-11-02,Penawaran,TK,jl tambakreja,Desa Tambakreja,Kecamatan Lakbok,380.0,108300000.0,260646.164383562,1,108.65671,-7.38297
 1109,01/2026/0054/1/0449,213,213N,Zee Treaz,2026-11-02,Penawaran,TK,jl tambakreja,Desa Tambakreja,Kecamatan Lakbok,341.0,85250000.0,228636.98630137,1,108.66086,-7.37652
 1110,01/2026/0054/1/0450,216,216N,Zee Treaz,2026-11-02,Penawaran,TK,jl cintaratu,Desa Cintaratu,Kecamatan Lakbok,297.0,68310000.0,210346.02739726,1,108.66215,-7.35466
@@ -1097,11 +1096,10 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 1113,01/2026/0054/1/0453,214,214N,Zee Treaz,2026-11-02,Penawaran,TK,jl cintaratu,Desa Cintaratu,Kecamatan Lakbok,209.0,89452000.0,391426.520547945,1,108.67074,-7.36243
 1114,01/2026/0054/1/0454,216,216N,Zee Treaz,2026-11-02,Penawaran,TK,jl cintaratu,Desa Cintaratu,Kecamatan Lakbok,568.0,170400000.0,274364.383561644,1,108.66917,-7.36813
 1115,01/2026/0054/2/0661,219,219P,Zee Treaz,2026-11-02,Penawaran,TK,jl tambakreja,Desa Tambakreja,Kecamatan Lakbok,2246.0,213370000.0,86882.0547945206,2,108.66746,-7.36922
-1116,01/2026/0054/1/0455,455,455N,Agung Fauzi,2026-11-02,Penawaran,B,jl. cipurut,Desa Cijulang,Kecamatan Cihaurbeuti,183.0,700000000.0,2215571.52481473,1,108.19802,-7.26156
+1116,01/2026/0054/1/0455,455,455N,Agung Fauzi,2026-11-02,Penawaran,B,jl. cipurut,Desa Cijulang,Kecamatan Cihaurbeuti,183.0,600000000.0,786278.014821469,1,108.19802,-7.26156
 1117,01/2026/0054/1/0456,446,446N,Agung Fauzi,2026-11-02,Penawaran,TK,jl. raya cihaurbeti,Desa Cihaurbeuti,Kecamatan Cihaurbeuti,2131.0,1865000000.0,800390.388459981,1,108.19941,-7.22115
-1118,01/2026/0054/1/0457,446,446N,Agung Fauzi,2026-11-02,Penawaran,B,jl. raya cihaurbeti,Desa Sumberjaya,Kecamatan Cihaurbeuti,700.0,1200000000.0,1302867.90606654,1,108.19594,-7.24096
+1118,01/2026/0054/1/0457,446,446N,Agung Fauzi,2026-11-02,Penawaran,B,jl. raya cihaurbeti,Desa Sumberjaya,Kecamatan Cihaurbeuti,700.0,1200000000.0,1313465.04892368,1,108.19594,-7.24096
 1119,01/2026/0054/1/0458,446,446N,Agung Fauzi,2026-11-02,Penawaran,TK,jl. raya cihaurbeuti,Desa Sumberjaya,Kecamatan Cihaurbeuti,1680.0,1560000000.0,849223.091976516,1,108.19535,-7.24632
-1120,01/2026/0054/2/0662,486,486P,Agung Fauzi,2026-11-02,Penawaran,TK,jl. raya pamokolan panumbangan,Desa Pamokolan,Kecamatan Cihaurbeuti,300.0,1000000000.0,3048493.15068493,2,108.20004,-7.21389
 1121,01/2026/0054/2/0663,339,339P,Agung Fauzi,2026-11-02,Penawaran,TK,jl. desa sumberjaya,Desa Sumberjaya,Kecamatan Cihaurbeuti,409.0,140000000.0,313048.196402854,2,108.19839,-7.24049
 1122,01/2026/0054/1/0459,4,4N,Agung Fauzi,2026-11-02,Penawaran,B,jl. desa pamokolan,Desa Pamokolan,Kecamatan Cihaurbeuti,110.0,200000000.0,443417.185554172,1,108.20615,-7.19614
 1123,01/2026/0054/2/0664,324,324P,Julio Arya,2026-11-03,Penawaran,TK,Jl.Desa Cisaga,Desa Wangunjaya,Kecamatan Cisaga,2218.0,300000000.0,123665.649665872,2,108.51567,-7.33125
@@ -1149,9 +1147,9 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 1165,01/2026/0054/2/0692,276,276P,Julio Arya,2026-11-03,Penawaran,TK,Jl.Desa Patakaharja,Desa Patakaharja,Kecamatan Rancah,1300.0,160000000.0,112529.399367756,2,108.5128,-7.16334
 1166,01/2026/0054/2/0693,276,276P,Julio Arya,2026-11-03,Penawaran,TK,Jl.Desa Dadiharja,Desa Dadiharja,Kecamatan Rancah,4231.0,460000000.0,99404.0723557046,2,108.50328,-7.16585
 1167,01/2026/0054/1/0474,68,68N,Agung Fauzi,2026-11-03,Penawaran,B,jl. baregbeg,Desa Baregbeg,Kecamatan Baregbeg,820.0,2300000000.0,2073903.10725025,1,108.36049,-7.30438
-1168,01/2026/0054/1/0475,68,68N,Agung Fauzi,2026-11-03,Penawaran,B,jl. R.E martadinata,Kelurahan Maleber,Kecamatan Ciamis,1400.0,3650000000.0,2005803.05283757,1,108.36113,-7.30374
+1168,01/2026/0054/1/0475,68,68N,Agung Fauzi,2026-11-03,Penawaran,B,jl. R.E martadinata,Kelurahan Maleber,Kecamatan Ciamis,1400.0,3650000000.0,2012769.15851272,1,108.36113,-7.30374
 1169,01/2026/0054/1/0476,241,241N,Julio Arya,2026-11-04,Penawaran,TK,Jl.Raya Pamarican,Desa Sukahurip,Kecamatan Pamarican,630.0,242000000.0,351113.111545988,1,108.53719,-7.46423
-1170,01/2026/0054/1/0477,241,241N,Julio Arya,2026-11-04,Penawaran,B,Jl. Raya Pamarican Timur,Desa Kertahayu,Kecamatan Pamarican,504.0,271000000.0,350024.951076321,1,108.55423,-7.4599
+1170,01/2026/0054/1/0477,241,241N,Julio Arya,2026-11-04,Penawaran,B,Jl. Raya Pamarican Timur,Desa Kertahayu,Kecamatan Pamarican,504.0,271000000.0,375415.362035225,1,108.55423,-7.4599
 1171,01/2026/0054/1/0478,241,241N,Julio Arya,2026-11-04,Penawaran,TK,Jl.Pamarican,Desa Sukahurip,Kecamatan Pamarican,1514.0,580000000.0,350166.301731782,1,108.53722,-7.46423
 1172,01/2026/0054/1/0479,241,241N,Julio Arya,2026-11-04,Penawaran,B,Jl.Raya Pamarican,Desa Sukahurip,Kecamatan Pamarican,1000.0,750000000.0,559858.561643836,1,108.52741,-7.45871
 1173,01/2026/0054/1/0480,202,202N,Julio Arya,2026-11-04,Penawaran,TK,Jl.Raya Banjar Pangandaran,Desa Kertahayu,Kecamatan Pamarican,840.0,700000000.0,761712.328767123,1,108.56602,-7.46
@@ -1159,7 +1157,7 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 1175,01/2026/0054/1/0482,480,480N,Agung Fauzi,2026-11-04,Penawaran,TK,jl. sukasetia,Desa Sukasetia,Kecamatan Cihaurbeuti,504.0,240000000.0,435264.187866928,1,108.20006,-7.24712
 1176,01/2026/0054/1/0483,480,480N,Agung Fauzi,2026-11-04,Penawaran,TK,jl. sumberjaya,Desa Sumberjaya,Kecamatan Cihaurbeuti,873.0,385000000.0,403105.493574354,1,108.20546,-7.23455
 1177,01/2026/0054/1/0484,480,480N,Agung Fauzi,2026-11-04,Penawaran,TK,jl. desa sumberjaya,Desa Sumberjaya,Kecamatan Cihaurbeuti,877.0,315000000.0,328309.304759376,1,108.2083,-7.22192
-1178,01/2026/0054/2/0694,486,486P,Agung Fauzi,2026-11-04,Transaksi,TK,jl. padamulya,Desa Padamulya,Kecamatan Cihaurbeuti,341.0,500000000.0,1938697.62583859,2,108.20432,-7.20301
+1178,01/2026/0054/2/0694,486,486P,Agung Fauzi,2026-11-04,Transaksi,TK,jl. padamulya,Desa Padamulya,Kecamatan Cihaurbeuti,341.0,80000000.0,310191.620134174,2,108.20432,-7.20301
 1179,01/2026/0054/1/0485,4,4N,Agung Fauzi,2026-11-04,Penawaran,B,jl. pasirtamiang,Desa Pasirtamiang,Kecamatan Cihaurbeuti,1623.0,1150000000.0,459937.204061479,1,108.20109,-7.21021
 1180,01/2026/0054/1/0486,5,5N,Agung Fauzi,2026-11-04,Transaksi,TK,jl. pasirtamiang,Desa Pasirtamiang,Kecamatan Cihaurbeuti,294.0,103000000.0,355811.201192806,1,108.21838,-7.20985
 1181,01/2026/0054/2/0695,223,223P,Julio Arya,2026-11-04,Penawaran,TK,Jl.Desa Kertahayu,Desa Kertahayu,Kecamatan Pamarican,849.0,100000000.0,107662.519967085,2,108.57401,-7.45898
@@ -1217,11 +1215,11 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 1233,01/2026/0054/2/0723,479,479P,Julio Arya,2026-11-05,Transaksi,TK,Jl.Desa Neglasari,Desa Neglasari,Kecamatan Pamarican,499.0,50000000.0,120185.576632717,2,108.53845,-7.43338
 1234,01/2026/0054/2/0724,479,479P,Julio Arya,2026-11-05,Individual,TK,-,Desa Neglasari,Kecamatan Pamarican,0.0,0.0,0.0,2,108.53588,-7.43167
 1235,01/2026/0054/2/0725,222,222P,Julio Arya,2026-11-05,Penawaran,TK,Jl. Raya Pamarican,Desa Sukahurip,Kecamatan Pamarican,1666.0,415000000.0,227629.29829466,2,108.54082,-7.46513
-1236,01/2026/0054/1/0511,68,68N,Agung Fauzi,2026-11-05,Penawaran,B,jl. raya cipaku,Desa Baregbeg,Kecamatan Baregbeg,798.0,2600000000.0,2488734.16417757,1,108.36115,-7.30368
+1236,01/2026/0054/1/0511,68,68N,Agung Fauzi,2026-11-05,Penawaran,B,jl. raya cipaku,Desa Baregbeg,Kecamatan Baregbeg,798.0,2500000000.0,2262254.26580149,1,108.36115,-7.30368
 1237,01/2026/0054/1/0512,14,14N,Agung Fauzi,2026-11-05,Penawaran,B,jl. raya panumbangan,Desa Golat,Kecamatan Panumbangan,196.0,800000000.0,2003747.27425217,1,108.2182,-7.14282
 1238,01/2026/0054/2/0726,8,8P,Agung Fauzi,2026-11-05,Transaksi,TK,jl. raya panumbangan,Desa Medanglayang,Kecamatan Panumbangan,567.0,165000000.0,382931.071972168,2,108.19571,-7.18033
 1239,01/2026/0054/2/0727,8,8P,Agung Fauzi,2026-11-05,Penawaran,TK,jl. raya panumbangan,Desa Medanglayang,Kecamatan Panumbangan,1556.0,444000000.0,260752.473852872,2,108.19423,-7.17601
-1240,01/2026/0054/1/0513,14,14N,Agung Fauzi,2026-11-05,Penawaran,B,jl.raya panumbangan,Desa Tanjungmulya,Kecamatan Panumbangan,330.0,1500000000.0,2049145.70361146,1,108.20435,-7.1578
+1240,01/2026/0054/1/0513,14,14N,Agung Fauzi,2026-11-05,Penawaran,B,jl.raya panumbangan,Desa Tanjungmulya,Kecamatan Panumbangan,330.0,1500000000.0,2984491.49024491,1,108.20435,-7.1578
 1241,01/2026/0054/2/0728,227,227P,Zee Treaz,2026-11-05,Penawaran,TK,jl purwajaya,Desa Purwajaya,Kecamatan Purwadadi,600.0,98400000.0,149864.547945206,2,108.68418,-7.46035
 1242,01/2026/0054/2/0729,228,228P,Zee Treaz,2026-11-05,Penawaran,TK,jl purwajaya,Desa Purwajaya,Kecamatan Purwadadi,403.0,57226000.0,129760.767123288,2,108.69934,-7.45718
 1243,01/2026/0054/1/0514,224,224N,Zee Treaz,2026-11-05,Penawaran,TK,jl purwajaya,Desa Purwajaya,Kecamatan Purwadadi,220.0,75240000.0,312522.410958904,1,108.69783,-7.45982
@@ -1230,14 +1228,14 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 1246,01/2026/0054/2/0731,491,491P,Zee Treaz,2026-11-05,Penawaran,TK,jl sidarahayu,Desa Sidarahayu,Kecamatan Purwadadi,1053.0,147420000.0,127933.150684932,2,108.71102,-7.46274
 1247,01/2026/0054/2/0732,491,491P,Zee Treaz,2026-11-05,Penawaran,TK,jl sidaharyu,Desa Sidarahayu,Kecamatan Purwadadi,2392.0,255944000.0,97777.4794520548,2,108.71351,-7.45128
 1248,01/2026/0054/1/0516,14,14N,Agung Fauzi,2026-11-05,Penawaran,B,jl. raya panumbangan,Desa Tanjungmulya,Kecamatan Panumbangan,215.0,1500000000.0,2923241.79675056,1,108.2078,-7.1519
-1249,01/2026/0054/2/0733,446,446N,Agung Fauzi,2026-11-05,Penawaran,TK,jl. raya panumbangan,Desa Cihaurbeuti,Kecamatan Cihaurbeuti,1680.0,1800000000.0,979080.23483366,2,108.19991,-7.2146
+1249,01/2026/0054/2/0733,6,6P,Agung Fauzi,2026-11-05,Penawaran,TK,jl. raya panumbangan,Desa Cihaurbeuti,Kecamatan Cihaurbeuti,1680.0,1800000000.0,979080.23483366,2,108.19991,-7.2146
 1250,01/2026/0054/2/0734,13,13P,Agung Fauzi,2026-11-05,Penawaran,TK,jl. Sukakerta,Desa Sukakerta,Kecamatan Panumbangan,1575.0,230000000.0,133445.009784736,2,108.21716,-7.15037
-1251,01/2026/0054/1/0517,12,12N,Agung Fauzi,2026-11-05,Penawaran,TK,jl. raya panumbangan,Desa Tanjungmulya,Kecamatan Panumbangan,152.0,230000000.0,1382736.12112473,1,108.20822,-7.15239
-1252,01/2026/0054/1/0518,12,12N,Agung Fauzi,2026-11-05,Penawaran,TK,jl. sukakerta,Desa Sukakerta,Kecamatan Panumbangan,211.0,315000000.0,1364216.06180614,1,108.21583,-7.14824
-1253,01/2026/0054/1/0519,12,12N,Agung Fauzi,2026-11-05,Transaksi,TK,jl. desa golat,Desa Golat,Kecamatan Panumbangan,168.0,240000000.0,1698238.74755382,1,108.22498,-7.1441
+1251,01/2026/0054/1/0517,12,12N,Agung Fauzi,2026-11-05,Penawaran,TK,jl. raya panumbangan,Desa Tanjungmulya,Kecamatan Panumbangan,152.0,78000000.0,468927.901946647,1,108.20822,-7.15239
+1252,01/2026/0054/1/0518,12,12N,Agung Fauzi,2026-11-05,Penawaran,TK,jl. sukakerta,Desa Sukakerta,Kecamatan Panumbangan,211.0,95000000.0,411430.24086217,1,108.21583,-7.14824
+1253,01/2026/0054/1/0519,12,12N,Agung Fauzi,2026-11-05,Transaksi,TK,jl. desa golat,Desa Golat,Kecamatan Panumbangan,168.0,91000000.0,643915.525114155,1,108.22498,-7.1441
 1254,01/2026/0054/2/0735,13,13P,Agung Fauzi,2026-11-05,Transaksi,TK,jl. golat,Desa Golat,Kecamatan Panumbangan,790.0,100000000.0,159597.711114964,2,108.23141,-7.14666
 1255,01/2026/0054/2/0736,8,8P,Agung Fauzi,2026-11-05,Penawaran,TK,terusan jl. raya panumbangan,Desa Medanglayang,Kecamatan Panumbangan,208.0,60000000.0,263598.524762908,2,108.20251,-7.15435
-1256,01/2026/0054/1/0520,18,18N,Agung Fauzi,2026-11-05,Penawaran,B,jl. jayagiri,Desa Jayagiri,Kecamatan Panumbangan,126.0,350000000.0,406136.98630137,1,108.22877,-7.13489
+1256,01/2026/0054/1/0520,18,18N,Agung Fauzi,2026-11-05,Penawaran,B,jl. jayagiri,Desa Jayagiri,Kecamatan Panumbangan,126.0,330000000.0,556020.874103066,1,108.22877,-7.13489
 1257,01/2026/0054/1/0521,14,14N,Agung Fauzi,2026-11-05,Penawaran,TK,jl. arah panjang- kawai,Desa Sindangmukti,Kecamatan Panumbangan,490.0,1225000000.0,2284520.54794521,1,108.22788,-7.12416
 1258,01/2026/0054/1/0522,18,18N,Agung Fauzi,2026-11-06,Penawaran,TK,jl. desa banjarangsana,Desa Banjarangsana,Kecamatan Panumbangan,474.0,220000000.0,424015.952835096,1,108.24584,-7.14308
 1259,01/2026/0054/2/0737,20,20P,Agung Fauzi,2026-11-06,Transaksi,TK,jl. banjarangsana,Desa Banjarangsana,Kecamatan Panumbangan,1766.0,140000000.0,104013.403869126,2,108.24765,-7.13711
@@ -1289,21 +1287,21 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 1305,01/2026/0054/1/0546,238,238N,Zee Treaz,2026-11-06,Penawaran,TK,jl pasirlawang,Desa Pasirlawang,Kecamatan Purwadadi,629.0,157250000.0,228390.410958904,1,108.63867,-7.44062
 1306,01/2026/0054/1/0547,238,238N,Zee Treaz,2026-11-06,Penawaran,TK,jl bantardawa,Desa Bantardawa,Kecamatan Purwadadi,196.0,52920000.0,246661.643835616,1,108.62717,-7.43501
 1307,01/2026/0054/2/0760,226,226P,Julio Arya,2026-11-06,Penawaran,TK,Jl.Pamarican Timur,Desa Pamarican,Kecamatan Pamarican,127.0,16500000.0,118691.079710927,2,108.51917,-7.45838
-1308,01/2026/0054/1/0548,249,249N,Julio Arya,2026-11-07,Penawaran,B,Jl.Langkaplancar,Desa Neglasari,Kecamatan Pamarican,379.0,130000000.0,255439.042903098,1,108.51659,-7.45091
-1309,01/2026/0054/1/0549,249,249N,Julio Arya,2026-11-07,Penawaran,TK,Jl.Ciparay margajaya,Desa Neglasari,Kecamatan Pamarican,413.0,72000000.0,159221.99741285,1,108.51312,-7.43945
-1310,01/2026/0054/1/0550,249,249N,Julio Arya,2026-11-07,Penawaran,TK,Jl.neglasari,Desa Neglasari,Kecamatan Pamarican,909.0,136000000.0,136645.598806456,1,108.51601,-7.44358
+1308,01/2026/0054/1/0548,249,249N,Julio Arya,2026-11-07,Penawaran,B,Jl.Langkaplancar,Desa Neglasari,Kecamatan Pamarican,379.0,150000000.0,274717.461235407,1,108.51659,-7.45091
+1309,01/2026/0054/1/0549,249,249N,Julio Arya,2026-11-07,Penawaran,TK,Jl.Ciparay margajaya,Desa Neglasari,Kecamatan Pamarican,413.0,90000000.0,199027.496766062,1,108.51312,-7.43945
+1310,01/2026/0054/1/0550,249,249N,Julio Arya,2026-11-07,Penawaran,TK,Jl.neglasari,Desa Neglasari,Kecamatan Pamarican,909.0,150000000.0,150712.057507121,1,108.51601,-7.44358
 1311,01/2026/0054/2/0761,184,184P,Julio Arya,2026-11-07,Transaksi,TK,Jl.Desa Sindangrasa,Kelurahan Sindangrasa,Kecamatan Banjarsari,503.0,45000000.0,123777.880661238,2,108.58404,-7.48253
 1312,01/2026/0054/2/0762,184,184P,Julio Arya,2026-11-07,Penawaran,TK,Jl.Desa Sindangrasa,Kelurahan Sindangrasa,Kecamatan Banjarsari,2669.0,290000000.0,99236.1820393457,2,108.58699,-7.48483
 1313,01/2026/0054/2/0763,184,184P,Julio Arya,2026-11-07,Penawaran,TK,Jl.Desa Sindangrasa,Kelurahan Sindangrasa,Kecamatan Banjarsari,600.0,90000000.0,136997.260273973,2,108.5907,-7.47492
-1314,01/2026/0054/1/0551,192,192N,Julio Arya,2026-11-07,Penawaran,B,Jl.Raya Banjar pangandaran,Desa Ciherang,Kecamatan Banjarsari,560.0,880000000.0,1349676.71232877,1,108.62917,-7.50344
+1314,01/2026/0054/1/0551,192,192N,Julio Arya,2026-11-07,Penawaran,B,Jl.Raya Banjar pangandaran,Desa Ciherang,Kecamatan Banjarsari,560.0,880000000.0,1253996.08610568,1,108.62917,-7.50344
 1315,01/2026/0054/1/0552,237,237N,Zee Treaz,2026-11-07,Penawaran,TK,jl bantardawa,Desa Bantardawa,Kecamatan Purwadadi,230.0,57500000.0,228328.767123288,1,108.60796,-7.43974
 1316,01/2026/0054/2/0764,483,483P,Zee Treaz,2026-11-07,Transaksi,TK,jl dusun Sukasari,Desa Sukajadi,Kecamatan Pamarican,950.0,109250000.0,126027.397260274,2,108.6066,-7.44023
-1317,01/2026/0054/1/0553,192,192N,Julio Arya,2026-11-07,Penawaran,B,Jl.Raya Banjar-pangandaran,Desa Sukasari,Kecamatan Banjarsari,617.0,1200000000.0,1289463.37781133,1,108.59801,-7.48003
+1317,01/2026/0054/1/0553,192,192N,Julio Arya,2026-11-07,Penawaran,B,Jl.Raya Banjar-pangandaran,Desa Sukasari,Kecamatan Banjarsari,617.0,1200000000.0,1381567.90479785,1,108.59801,-7.48003
 1318,01/2026/0054/2/0765,483,483P,Zee Treaz,2026-11-07,Penawaran,TK,jl tanpa nama,Desa Bantardawa,Kecamatan Purwadadi,800.0,144000000.0,164396.712328767,2,108.61196,-7.43492
-1319,01/2026/0054/2/0766,6,6P,Agung Fauzi,2026-11-07,Penawaran,TK,jl. raya panumbangan,Desa Medanglayang,Kecamatan Panumbangan,1365.0,4500000000.0,3010928.79723017,2,108.19954,-7.2008
+1319,01/2026/0054/2/0766,6,6P,Agung Fauzi,2026-11-07,Penawaran,TK,jl. raya panumbangan,Desa Medanglayang,Kecamatan Panumbangan,1365.0,1400000000.0,936733.403582719,2,108.19954,-7.2008
 1320,01/2026/0054/2/0767,483,483P,Zee Treaz,2026-11-07,Penawaran,TK,jl pasirlawang,Desa Pasirlawang,Kecamatan Purwadadi,421.0,75780000.0,164396.712328767,2,108.63744,-7.4542
-1321,01/2026/0054/2/0768,6,6P,Agung Fauzi,2026-11-07,Penawaran,TK,jl. raya panumbangan,Desa Medanglayang,Kecamatan Panumbangan,327.0,1445000000.0,4035902.97850949,2,108.19698,-7.18095
-1322,01/2026/0054/2/0769,6,6P,Agung Fauzi,2026-11-07,Transaksi,TK,jl. raya  panumbangan,Desa Medanglayang,Kecamatan Panumbangan,582.0,2000000000.0,3487266.39363555,2,108.19737,-7.18767
+1321,01/2026/0054/2/0768,6,6P,Agung Fauzi,2026-11-07,Penawaran,TK,jl. raya panumbangan,Desa Medanglayang,Kecamatan Panumbangan,327.0,300000000.0,837903.732562524,2,108.19698,-7.18095
+1322,01/2026/0054/2/0769,6,6P,Agung Fauzi,2026-11-07,Transaksi,TK,jl. raya  panumbangan,Desa Medanglayang,Kecamatan Panumbangan,582.0,600000000.0,1046179.91809067,2,108.19737,-7.18767
 1323,01/2026/0054/2/0770,394,394P,Agung Fauzi,2026-11-07,Transaksi,TK,jl. desa sindangmukti,Desa Sindangmukti,Kecamatan Panumbangan,9810.0,1100000000.0,140915.755519249,2,108.22314,-7.12196
 1324,01/2026/0054/2/0771,394,394P,Agung Fauzi,2026-11-07,Transaksi,TK,jl. gang desa sindangherang,Desa Sindangherang,Kecamatan Panumbangan,928.0,100000000.0,139909.069437884,2,108.2179,-7.11499
 1325,01/2026/0054/2/0772,394,394P,Agung Fauzi,2026-11-07,Penawaran,TK,jl. desapayungsari,Desa Payungsari,Kecamatan Panumbangan,1490.0,160000000.0,98074.1013147008,2,108.23254,-7.1209
@@ -1332,10 +1330,126 @@ No,NoSampel,NOZN,HISTZONE,Surveyor,Tgl,JenisData,GunaObjek,Alamat,Kelurahan,Keca
 1348,01/2026/0054/2/0787,483,483P,Zee Treaz,2026-11-07,Penawaran,TK,jl pasirlawang,Desa Pasirlawang,Kecamatan Purwadadi,700.0,101500000.0,132430.684931507,2,108.63756,-7.43943
 1349,01/2026/0054/2/0788,493,493P,Julio Arya,2026-11-07,Penawaran,TK,Jl.Gayam,Kelurahan Cigayam,Kecamatan Banjarsari,1400.0,168000000.0,109597.808219178,2,108.57107,-7.49414
 1350,01/2026/0054/2/0789,493,493P,Julio Arya,2026-11-07,Penawaran,TK,Jl.Desa Cigayam,Kelurahan Cigayam,Kecamatan Banjarsari,650.0,50000000.0,70255.0052687039,2,108.5638,-7.4958
-1351,01/2026/0054/2/0790,485,485P,Agung Fauzi,2026-11-07,Penawaran,TK,jl. sindangbarang,Desa Sindangbarang,Kecamatan Panumbangan,499.0,40000000.0,73211.6287369259,2,108.19324,-7.06642
+1351,01/2026/0054/2/0790,485,485P,Agung Fauzi,2026-11-07,Penawaran,TK,jl. sindangbarang,Desa Sindangbarang,Kecamatan Panumbangan,499.0,100000000.0,183029.071842315,2,108.19324,-7.06642
 1352,01/2026/0054/2/0791,493,493P,Julio Arya,2026-11-07,Penawaran,TK,Jl.cigayam,Kelurahan Cigayam,Kecamatan Banjarsari,2240.0,225000000.0,91739.2367906067,2,108.56695,-7.49719
-1353,01/2026/0054/2/0792,485,485P,Agung Fauzi,2026-11-07,Transaksi,TK,jl. sindangbarang,Desa Sindangbarang,Kecamatan Panumbangan,1168.0,120000000.0,135982.360668043,2,108.20656,-7.08162
+1353,01/2026/0054/2/0792,485,485P,Agung Fauzi,2026-11-07,Transaksi,TK,jl. sindangbarang,Desa Sindangbarang,Kecamatan Panumbangan,1168.0,170000000.0,192641.677613061,2,108.20656,-7.08162
 1354,01/2026/0054/1/0562,192,192N,Julio Arya,2026-11-07,Penawaran,TK,Jl. banjar pangandaran,Desa Cibadak,Kecamatan Banjarsari,1162.0,2000000000.0,1571970.85799165,1,108.61948,-7.49072
 1355,01/2026/0054/2/0793,171,171P,Julio Arya,2026-11-07,Penawaran,TK,Jl.Kawasen,Desa Kawasen,Kecamatan Banjarsari,1262.0,280000000.0,202637.257668845,2,108.62432,-7.51318
-1356,01/2026/0054/1/0563,181,181N,Julio Arya,2026-11-07,Penawaran,R,Jl.Cigayam,Desa Sukasari,Kecamatan Banjarsari,252.0,500000000.0,813446.401391607,1,108.59687,-7.48223
-1357,01/2026/0054/2/0794,485,485P,Agung Fauzi,2026-11-07,Penawaran,TK,jl. raya sindangbarang,Desa Sindangbarang,Kecamatan Panumbangan,1610.0,172000000.0,97571.5476899515,2,108.19962,-7.07233
+1356,01/2026/0054/1/0563,181,181N,Julio Arya,2026-11-07,Penawaran,R,Jl.Cigayam,Desa Sukasari,Kecamatan Banjarsari,252.0,500000000.0,475181.561208958,1,108.59687,-7.48223
+1357,01/2026/0054/2/0794,485,485P,Agung Fauzi,2026-11-07,Penawaran,TK,jl. raya sindangbarang,Desa Sindangbarang,Kecamatan Panumbangan,1610.0,350000000.0,198546.75402025,2,108.19962,-7.07233
+1358,01/2026/0054/1/0564,181,181N,Julio Arya,2026-11-08,Penawaran,B,Jl.Cigayam,Desa Sukasari,Kecamatan Banjarsari,224.0,200000000.0,366857.876712329,1,108.59287,-7.48821
+1359,01/2026/0054/1/0565,181,181N,Julio Arya,2026-11-08,Penawaran,B,Jl.Gayam,Kelurahan Cigayam,Kecamatan Banjarsari,700.0,350000000.0,319139.178082192,1,108.58197,-7.49147
+1360,01/2026/0054/1/0566,165,165N,Julio Arya,2026-11-08,Penawaran,TK,Jl.Langkapsari,Kelurahan Langkapsari,Kecamatan Banjarsari,623.0,110000000.0,161215.945821148,1,108.58346,-7.51008
+1362,01/2026/0054/2/0796,186,186P,Julio Arya,2026-11-08,Penawaran,TK,Jl.cigayam,Kelurahan Cigayam,Kecamatan Banjarsari,1500.0,150000000.0,91306.8493150685,2,108.55838,-7.50082
+1363,01/2026/0054/2/0797,481,481P,Julio Arya,2026-11-08,Penawaran,TK,Jl.Cigayam,Kelurahan Cigayam,Kecamatan Banjarsari,1050.0,130000000.0,113046.575342466,2,108.55335,-7.49385
+1364,01/2026/0054/2/0798,186,186P,Julio Arya,2026-11-08,Transaksi,TK,Jalan Setapak,Kelurahan Cigayam,Kecamatan Banjarsari,2500.0,185000000.0,91192.3287671233,2,108.5531,-7.49418
+1365,01/2026/0054/2/0799,481,481P,Julio Arya,2026-11-08,Penawaran,TK,Jl.Kebon Jati,Kelurahan Cigayam,Kecamatan Banjarsari,3200.0,430000000.0,122693.578767123,2,108.54726,-7.49114
+1366,01/2026/0054/2/0800,481,481P,Julio Arya,2026-11-08,Transaksi,TK,Jl.Cigayam,Kelurahan Cigayam,Kecamatan Banjarsari,2642.0,300000000.0,128980.743106613,2,108.54414,-7.48581
+1367,01/2026/0054/1/0567,442,442N,Julio Arya,2026-11-08,Penawaran,TK,Jl.Desa Cigayam,Kelurahan Cigayam,Kecamatan Banjarsari,294.0,45000000.0,139755.381604697,1,108.53817,-7.48294
+1368,01/2026/0054/1/0568,442,442N,Julio Arya,2026-11-08,Penawaran,TK,Jl.Desa Karyamukti,Desa Karyamukti,Kecamatan Banjarsari,450.0,65000000.0,131887.671232877,1,108.53447,-7.48103
+1369,01/2026/0054/2/0801,481,481P,Julio Arya,2026-11-08,Penawaran,TK,Jl.Desa Sukahurip,Desa Sukahurip,Kecamatan Pamarican,1140.0,160000000.0,128149.963950973,2,108.53009,-7.4786
+1370,01/2026/0054/1/0569,442,442N,Julio Arya,2026-11-08,Penawaran,TK,Jl.Desa Sukahurip,Desa Sukahurip,Kecamatan Pamarican,533.0,90000000.0,154176.668637076,1,108.52673,-7.4771
+1371,01/2026/0054/2/0802,77,77P,Agung Fauzi,2026-11-08,Transaksi,TK,jl. kartini,Desa Ciomas,Kecamatan Panjalu,961.0,103000000.0,139392.755833678,2,108.28785,-7.155
+1372,01/2026/0054/2/0803,9,9N,Agung Fauzi,2026-11-08,Penawaran,TK,jl. gang sandingtaman,Desa Sandingtaman,Kecamatan Panjalu,519.0,37000000.0,65093.514925964,2,108.29509,-7.16109
+1373,01/2026/0054/2/0804,77,77P,Agung Fauzi,2026-11-08,Transaksi,TK,jl. sandingtamana,Desa Sandingtaman,Kecamatan Panjalu,2794.0,190000000.0,88422.3531834361,2,108.29284,-7.17023
+1374,01/2026/0054/2/0805,481,481P,Julio Arya,2026-11-08,Penawaran,TK,Jl.Desa Sukahurip,Desa Sukahurip,Kecamatan Pamarican,4600.0,690000000.0,136960.273972603,2,108.51049,-7.47751
+1375,01/2026/0054/2/0806,425,425P,Agung Fauzi,2026-11-08,Transaksi,TK,jl. ciomas,Desa Ciomas,Kecamatan Panjalu,390.0,28000000.0,88002.8099754127,2,108.30232,-7.1432
+1376,01/2026/0054/2/0807,425,425P,Agung Fauzi,2026-11-08,Transaksi,TK,jl. desa ciomas,Desa Ciomas,Kecamatan Panjalu,6374.0,336000000.0,63675.8062505642,2,108.29956,-7.13716
+1377,01/2026/0054/2/0808,425,425P,Agung Fauzi,2026-11-08,Penawaran,TK,jl. panjalu,Desa Panjalu,Kecamatan Panjalu,988.0,52000000.0,48056.236481615,2,108.27901,-7.13889
+1378,01/2026/0054/2/0809,114,114P,Agung Fauzi,2026-11-08,Transaksi,TK,jl. ciomas,Desa Ciomas,Kecamatan Panjalu,569.0,40000000.0,88268.2909213472,2,108.29781,-7.14698
+1379,01/2026/0054/2/0810,114,114P,Agung Fauzi,2026-11-08,Penawaran,TK,jl ciomas,Desa Ciomas,Kecamatan Panjalu,512.0,31000000.0,55283.4439212329,2,108.2895,-7.14778
+1380,01/2026/0054/2/0811,114,114P,Agung Fauzi,2026-11-08,Penawaran,TK,jl. ciomas,Desa Ciomas,Kecamatan Panjalu,737.0,42000000.0,52033.754019442,2,108.2856,-7.14146
+1381,01/2026/0054/2/0812,391,391P,Agung Fauzi,2026-11-08,Penawaran,TK,jl. kertamandala,Desa Kertamandala,Kecamatan Panjalu,710.0,38000000.0,48868.4545629944,2,108.27025,-7.14171
+1382,01/2026/0054/2/0813,391,391P,Agung Fauzi,2026-11-08,Penawaran,TK,jl. desa kertamandala,Desa Kertamandala,Kecamatan Panjalu,1498.0,80000000.0,48762.0023044425,2,108.26784,-7.153
+1383,01/2026/0054/2/0814,391,391P,Agung Fauzi,2026-11-08,Penawaran,TK,jl. kertamandala,Desa Kertamandala,Kecamatan Panjalu,1544.0,107000000.0,63276.119667826,2,108.26053,-7.14863
+1384,01/2026/0054/1/0570,191,191N,Julio Arya,2026-11-08,Penawaran,TK,Jl.Desa Karyamukti,Desa Karyamukti,Kecamatan Banjarsari,1798.0,295000000.0,149808.234415713,1,108.50711,-7.48159
+1385,01/2026/0054/1/0571,191,191N,Julio Arya,2026-11-08,Penawaran,TK,Jl.Desa Karyamukti,Desa Karyamukti,Kecamatan Banjarsari,267.0,46000000.0,157307.680467908,1,108.50404,-7.48715
+1386,01/2026/0054/1/0572,191,191N,Julio Arya,2026-11-08,Penawaran,TK,Jl.Desa Karyamukti,Desa Karyamukti,Kecamatan Banjarsari,1607.0,300000000.0,170454.603575112,1,108.49489,-7.49356
+1387,01/2026/0054/1/0573,176,176N,Julio Arya,2026-11-08,Penawaran,TK,Jl.Desa Karyamukti,Desa Karyamukti,Kecamatan Banjarsari,600.0,90000000.0,136960.273972603,1,108.50818,-7.4859
+1388,01/2026/0054/1/0574,176,176N,Julio Arya,2026-11-08,Penawaran,TK,Jl.Desa Karyamukti,Desa Karyamukti,Kecamatan Banjarsari,550.0,85000000.0,141110.585305106,1,108.51369,-7.49242
+1389,01/2026/0054/1/0575,239,239N,Zee Treaz,2026-11-08,Penawaran,TK,jl padaringan,Desa Padaringan,Kecamatan Purwadadi,316.0,79000000.0,228267.123287671,1,108.59318,-7.40938
+1390,01/2026/0054/1/0576,239,239N,Zee Treaz,2026-11-08,Penawaran,TK,jl padaringan,Desa Padaringan,Kecamatan Purwadadi,380.0,81320000.0,195396.657534247,1,108.60047,-7.42116
+1391,01/2026/0054/1/0577,176,176N,Julio Arya,2026-11-08,Penawaran,TK,Jl.Desa Karyamukti,Desa Karyamukti,Kecamatan Banjarsari,1465.0,195000000.0,121534.714105381,1,108.5176,-7.49578
+1392,01/2026/0054/1/0578,239,239N,Zee Treaz,2026-11-08,Penawaran,TK,jl padaringan,Desa Padaringan,Kecamatan Purwadadi,200.0,50000000.0,228267.123287671,1,108.61065,-7.42312
+1393,01/2026/0054/1/0579,205,205N,Zee Treaz,2026-11-08,Penawaran,TK,jl Sukamulya,Desa Sukamulya,Kecamatan Purwadadi,449.0,135229000.0,274996.301247826,1,108.62781,-7.43095
+1394,01/2026/0054/1/0580,205,205N,Zee Treaz,2026-11-08,Transaksi,TK,jl Sukamulya,Desa Sukamulya,Kecamatan Purwadadi,183.0,52155000.0,315295.890410959,1,108.63784,-7.43128
+1395,01/2026/0054/1/0581,205,205N,Zee Treaz,2026-11-08,Penawaran,TK,jl Sukamulya,Desa Sukamulya,Kecamatan Purwadadi,621.0,199341000.0,293094.98630137,1,108.64606,-7.43149
+1396,01/2026/0054/2/0815,245,245P,Zee Treaz,2026-11-08,Penawaran,TK,jl sindangasih,Desa Sindangasih,Kecamatan Banjarsari,3226.0,345182000.0,97698.3287671233,2,108.65393,-7.45295
+1397,01/2026/0054/2/0816,245,245P,Zee Treaz,2026-11-08,Penawaran,TK,jl dusun gunung damar,Desa Sindangasih,Kecamatan Banjarsari,1124.0,176468000.0,143351.753424658,2,108.65133,-7.45816
+1398,01/2026/0054/2/0817,245,245P,Zee Treaz,2026-11-08,Penawaran,TK,jl sindangasih,Desa Sindangasih,Kecamatan Banjarsari,791.0,112322000.0,129655.726027397,2,108.64561,-7.46329
+1399,01/2026/0054/1/0582,201,201N,Zee Treaz,2026-11-08,Transaksi,TK,jl sindangasih,Desa Sindangasih,Kecamatan Banjarsari,90.0,22500000.0,274452.054794521,1,108.65521,-7.45312
+1400,01/2026/0054/2/0818,391,391P,Agung Fauzi,2026-11-08,Penawaran,TK,jl. mandalare,Desa Mandalare,Kecamatan Panjalu,1288.0,65000000.0,46078.7671232877,2,108.26843,-7.15086
+1401,01/2026/0054/2/0819,79,79P,Agung Fauzi,2026-11-08,Transaksi,TK,jl. sandingtaman,Desa Sandingtaman,Kecamatan Panjalu,8314.0,450000000.0,71623.7012334369,2,108.2949,-7.16465
+1402,01/2026/0054/1/0583,9,9N,Agung Fauzi,2026-11-08,Penawaran,TK,jl. gang dusun bojongsereh,Desa Ciomas,Kecamatan Panjalu,125.0,10000000.0,73045.4794520548,1,108.30157,-7.14588
+1403,01/2026/0054/1/0584,390,390N,Agung Fauzi,2026-11-08,Penawaran,TK,jl. raya panjalu,Desa Panjalu,Kecamatan Panjalu,700.0,1000000000.0,1304383.56164384,1,108.27091,-7.13561
+1404,01/2026/0054/2/0820,73,73P,Zee Treaz,2026-11-09,Penawaran,TK,jl Jatinegara,Desa Jatinagara,Kecamatan Jatinagara,1400.0,614800000.0,400859.225048924,2,108.42198,-7.17372
+1405,01/2026/0054/2/0821,180,180P,Julio Arya,2026-11-09,Transaksi,TK,Jl.Desa Karyamukti,Desa Karyamukti,Kecamatan Banjarsari,1600.0,160000000.0,125863.01369863,2,108.52042,-7.49779
+1406,01/2026/0054/2/0822,180,180P,Julio Arya,2026-11-09,Penawaran,TK,Jl.karyamukti,Desa Karyamukti,Kecamatan Banjarsari,2197.0,240000000.0,99716.5499653949,2,108.51562,-7.49928
+1407,01/2026/0054/2/0823,180,180P,Julio Arya,2026-11-09,Transaksi,TK,Jl.Karyamukti,Desa Karyamukti,Kecamatan Banjarsari,757.0,90000000.0,149020.10459456,2,108.52767,-7.50158
+1408,01/2026/0054/1/0585,165,165N,Julio Arya,2026-11-09,Penawaran,TK,Jl.Langkapsasi,Kelurahan Langkapsari,Kecamatan Banjarsari,2103.0,335000000.0,145409.102456373,1,108.58924,-7.50361
+1409,01/2026/0054/1/0586,173,173N,Julio Arya,2026-11-09,Penawaran,TK,jl.langkapsari,Kelurahan Langkapsari,Kecamatan Banjarsari,398.0,80000000.0,183481.792524265,1,108.59782,-7.50819
+1410,01/2026/0054/1/0587,165,165N,Julio Arya,2026-11-09,Penawaran,TK,Jl.Desa Langkapsari,Kelurahan Langkapsari,Kecamatan Banjarsari,310.0,55000000.0,161952.275740168,1,108.60284,-7.50237
+1411,01/2026/0054/1/0588,168,168N,Julio Arya,2026-11-09,Penawaran,TK,jl.desa banjaranyar,Desa Banjarsari,Kecamatan Banjarsari,600.0,120000000.0,182564.383561644,1,108.55127,-7.50663
+1412,01/2026/0054/1/0589,168,168N,Julio Arya,2026-11-09,Penawaran,TK,Jl.Raya Cigayam,Desa Banjaranyar,Kecamatan Banjaranyar,275.0,50000000.0,165967.621419676,1,108.55263,-7.51701
+1413,01/2026/0054/1/0590,168,168N,Julio Arya,2026-11-09,Penawaran,TK,Jl.Desa kalijaya,Desa Kalijaya,Kecamatan Banjarsari,400.0,75000000.0,171154.109589041,1,108.54136,-7.53929
+1414,01/2026/0054/2/0824,497,497P,Julio Arya,2026-11-09,Penawaran,TK,Jl.Raya Cigayam,Desa Banjaranyar,Kecamatan Banjaranyar,1200.0,190000000.0,144530.136986301,2,108.55493,-7.52959
+1415,01/2026/0054/2/0825,167,167P,Julio Arya,2026-11-09,Penawaran,TK,Jl.desa kalijaya,Desa Kalijaya,Kecamatan Banjarsari,438.0,45000000.0,93783.0737474198,2,108.52759,-7.54379
+1416,01/2026/0054/2/0826,79,79P,Agung Fauzi,2026-11-09,Transaksi,TK,jl. desa lumbung,Desa Lumbung,Kecamatan Lumbung,7897.0,770000000.0,127451.555211707,2,108.31952,-7.16876
+1417,01/2026/0054/2/0827,79,79P,Agung Fauzi,2026-11-09,Penawaran,TK,jl. panjalu,Desa Sandingtaman,Kecamatan Panjalu,2173.0,300000000.0,126022.354046234,2,108.30555,-7.15842
+1418,01/2026/0054/2/0828,497,497P,Julio Arya,2026-11-09,Transaksi,TK,Jl.Desa Banjaranyar,Desa Banjaranyar,Kecamatan Banjaranyar,1926.0,180000000.0,103623.095634362,2,108.51862,-7.52525
+1419,01/2026/0054/2/0829,117,117P,Agung Fauzi,2026-11-09,Penawaran,TK,jl. desa sadewata,Desa Sadewata,Kecamatan Lumbung,393.0,35000000.0,81294.572832793,2,108.3354,-7.12517
+1420,01/2026/0054/2/0830,117,117P,Agung Fauzi,2026-11-09,Transaksi,TK,jl. sadewata,Desa Sadewata,Kecamatan Lumbung,1033.0,100000000.0,111710.803750216,2,108.32284,-7.12729
+1421,01/2026/0054/2/0831,117,117P,Agung Fauzi,2026-11-09,Transaksi,TK,jl. desa maparah,Desa Maparah,Kecamatan Panjalu,411.0,35000000.0,106272.706062727,2,108.3052,-7.1293
+1422,01/2026/0054/2/0832,116,116P,Agung Fauzi,2026-11-09,Transaksi,TK,jl. desa sadewata,Desa Sadewata,Kecamatan Lumbung,2870.0,240000000.0,109237.745215026,2,108.31726,-7.11767
+1423,01/2026/0054/2/0833,116,116P,Agung Fauzi,2026-11-09,Penawaran,TK,jl. desa maparah,Desa Maparah,Kecamatan Panjalu,478.0,60000000.0,114580.157047057,2,108.31272,-7.10585
+1424,01/2026/0054/1/0591,390,390N,Agung Fauzi,2026-11-09,Penawaran,B,jl. desa panjalu,Desa Panjalu,Kecamatan Panjalu,840.0,1000000000.0,796908.023483366,1,108.27146,-7.13869
+1425,01/2026/0054/1/0592,441,441N,Julio Arya,2026-11-09,Penawaran,TK,Jl.Desa Banjaranyar,Desa Banjaranyar,Kecamatan Banjaranyar,1295.0,150000000.0,105732.268471994,1,108.52138,-7.52497
+1426,01/2026/0054/2/0834,497,497P,Julio Arya,2026-11-09,Penawaran,TK,Jl.Desa Banjaranyar,Desa Banjaranyar,Kecamatan Banjaranyar,1315.0,130000000.0,90240.9500494817,2,108.52228,-7.52458
+1427,01/2026/0054/2/0835,497,497P,Julio Arya,2026-11-09,Transaksi,TK,Jl.Desa Banjaranyar,Desa Banjaranyar,Kecamatan Banjaranyar,320.0,35000000.0,130051.369863014,2,108.52638,-7.52337
+1428,01/2026/0054/2/0836,497,497P,Julio Arya,2026-11-09,Penawaran,TK,Jl.Desa Banjaranyar,Desa Banjaranyar,Kecamatan Banjaranyar,712.0,115000000.0,147436.124365092,2,108.53024,-7.52311
+1429,01/2026/0054/1/0593,441,441N,Julio Arya,2026-11-09,Penawaran,TK,Jl.Desa Banjaranyar,Desa Banjaranyar,Kecamatan Banjaranyar,1539.0,220000000.0,130487.863494352,1,108.5323,-7.5227
+1430,01/2026/0054/1/0594,441,441N,Julio Arya,2026-11-09,Penawaran,TK,Jl.Desa Banjaranyar,Desa Banjaranyar,Kecamatan Banjaranyar,243.0,40000000.0,150258.751902588,1,108.53813,-7.51472
+1431,01/2026/0054/1/0595,194,194N,Zee Treaz,2026-11-09,Penawaran,TK,jl cikohkol,Desa Sindangsari,Kecamatan Banjarsari,840.0,599760000.0,651754.849315068,1,108.60491,-7.48084
+1432,01/2026/0054/1/0596,193,193N,Zee Treaz,2026-11-09,Penawaran,TK,jl sindangsari,Desa Sindangsari,Kecamatan Banjarsari,110.0,31350000.0,260154.246575342,1,108.61188,-7.47722
+1433,01/2026/0054/2/0837,11,11P,Agung Fauzi,2026-11-09,Penawaran,TK,jl. raya kawali panjalu,Desa Rawa,Kecamatan Lumbung,3332.0,1330000000.0,364361.689881432,2,108.31204,-7.15373
+1434,01/2026/0054/2/0838,11,11P,Agung Fauzi,2026-11-10,Transaksi,TK,jl. raya kawali,Desa Sandingtaman,Kecamatan Panjalu,1402.0,700000000.0,604205.342661169,2,108.30873,-7.15213
+1435,01/2026/0054/2/0839,495,495P,Julio Arya,2026-11-10,Penawaran,TK,Jl.Desa Cikupa,Desa Cikupa,Kecamatan Banjaranyar,171.0,170000000.0,907238.644556597,2,108.49905,-7.50163
+1436,01/2026/0054/2/0840,495,495P,Julio Arya,2026-11-10,Transaksi,TK,Jl.Desa Cikupa,Desa Cikupa,Kecamatan Banjaranyar,2823.0,250000000.0,112578.186035452,2,108.50082,-7.50703
+1437,01/2026/0054/2/0841,495,495P,Julio Arya,2026-11-10,Penawaran,TK,Jl.Desa Cikupa,Desa Cikupa,Kecamatan Banjaranyar,3959.0,450000000.0,103727.9373856,2,108.50032,-7.51353
+1438,01/2026/0054/1/0597,173,173N,Julio Arya,2026-11-10,Penawaran,TK,Jl.Raya kawasen,Desa Kawasen,Kecamatan Banjarsari,1011.0,250000000.0,225661.558473233,1,108.62235,-7.5134
+1439,01/2026/0054/1/0598,173,173N,Julio Arya,2026-11-10,Penawaran,TK,Jl.Raya Kawasen,Desa Kawasen,Kecamatan Banjarsari,58.0,13500000.0,212409.777987718,1,108.61761,-7.51252
+1440,01/2026/0054/2/0842,172,172P,Julio Arya,2026-11-10,Transaksi,TK,Jl.Kawasen,Desa Kawasen,Kecamatan Banjarsari,2193.0,175000000.0,100153.664524108,2,108.61414,-7.51468
+1441,01/2026/0054/1/0599,173,173N,Julio Arya,2026-11-10,Penawaran,TK,Jl.Raya Kawasen,Desa Kawasen,Kecamatan Banjarsari,425.0,95000000.0,203987.429492345,1,108.61158,-7.50965
+1442,01/2026/0054/2/0843,172,172P,Julio Arya,2026-11-10,Transaksi,TK,Jl.Kawasen,Desa Kawasen,Kecamatan Banjarsari,1200.0,130000000.0,124954.337899543,2,108.60326,-7.50847
+1443,01/2026/0054/2/0844,172,172P,Julio Arya,2026-11-10,Penawaran,TK,Jl.Kawasen,Desa Kawasen,Kecamatan Banjarsari,915.0,87000000.0,86769.4587918257,2,108.60506,-7.51406
+1444,01/2026/0054/2/0845,178,178P,Julio Arya,2026-11-10,Penawaran,TK,Jl.Langkapsari,Kelurahan Langkapsari,Kecamatan Banjarsari,965.0,120000800.0,113481.628141103,2,108.58478,-7.5106
+1445,01/2026/0054/2/0846,178,178P,Julio Arya,2026-11-10,Penawaran,TK,Jl.Arjuna,Kelurahan Langkapsari,Kecamatan Banjarsari,1400.0,140000000.0,91257.5342465754,2,108.58217,-7.51509
+1446,01/2026/0054/1/0600,22,22N,Agung Fauzi,2026-11-10,Penawaran,TK,jl. sindanglaya,Desa Sindanglaya,Kecamatan Sukamantri,386.0,75000000.0,177313.861878061,1,108.32011,-7.09722
+1447,01/2026/0054/1/0601,22,22N,Agung Fauzi,2026-11-10,Penawaran,TK,jl. sindanglaya,Desa Sindanglaya,Kecamatan Sukamantri,624.0,130000000.0,190119.863013699,1,108.31598,-7.08807
+1448,01/2026/0054/1/0602,22,22N,Agung Fauzi,2026-11-10,Penawaran,TK,jl. sindanglaya,Desa Sindanglaya,Kecamatan Sukamantri,114.0,20000000.0,160100.937274694,1,108.32812,-7.09401
+1449,01/2026/0054/2/0847,178,178P,Julio Arya,2026-11-10,Penawaran,TK,Jl.Tanjungsari,Kelurahan Langkapsari,Kecamatan Banjarsari,4428.0,550000000.0,113350.595834725,2,108.57934,-7.51523
+1450,01/2026/0054/2/0848,32,32P,Agung Fauzi,2026-11-10,Transaksi,TK,jl. sindanglaya,Desa Sindanglaya,Kecamatan Sukamantri,2049.0,115000000.0,73454.4749527,2,108.3184,-7.09529
+1451,01/2026/0054/2/0849,44,44P,Agung Fauzi,2026-11-10,Transaksi,TK,jl. sindanglaya,Desa Sindanglaya,Kecamatan Sukamantri,8057.0,400000000.0,65029.8132654154,2,108.3117,-7.0806
+1452,01/2026/0054/2/0850,44,44P,Agung Fauzi,2026-11-10,Penawaran,TK,jl. desa mekarwangi,Desa Mekarwangi,Kecamatan Sukamantri,1761.0,100000000.0,51821.4277379758,2,108.33375,-7.09398
+1453,01/2026/0054/2/0851,178,178P,Julio Arya,2026-11-10,Transaksi,TK,Jl.Tanjungsari,Kelurahan Langkapsari,Kecamatan Banjarsari,3952.0,370000000.0,110988.713881648,2,108.57804,-7.52049
+1454,01/2026/0054/2/0852,178,178P,Julio Arya,2026-11-10,Transaksi,TK,Jl.Tanjungsari,Kelurahan Langkapsari,Kecamatan Banjarsari,3126.0,250000000.0,96801.9001042954,2,108.57633,-7.52772
+1455,01/2026/0054/2/0853,44,44P,Agung Fauzi,2026-11-10,Transaksi,TK,jl. desa mekarwangi,Desa Mekarwangi,Kecamatan Sukamantri,607.0,25000000.0,54929.9271061362,2,108.33784,-7.09254
+1456,01/2026/0054/2/0854,32,32P,Agung Fauzi,2026-11-10,Transaksi,TK,jl. kp. cimara,Desa Cibeureum,Kecamatan Sukamantri,193.0,9500000.0,64407.6939456313,2,108.29959,-7.08035
+1457,01/2026/0054/2/0855,32,32P,Agung Fauzi,2026-11-10,Penawaran,TK,jl. kp cimara,Desa Cibeureum,Kecamatan Sukamantri,871.0,45000000.0,47147.979805923,2,108.305,-7.08247
+1458,01/2026/0054/2/0856,116,116P,Agung Fauzi,2026-11-10,Penawaran,TK,jl. sindanglaya,Desa Sindanglaya,Kecamatan Sukamantri,998.0,95000000.0,86868.3943228924,2,108.31649,-7.10184
+1459,01/2026/0054/1/0603,26,26N,Agung Fauzi,2026-11-10,Penawaran,B,jl. raya sukamantri,Desa Cibeureum,Kecamatan Sukamantri,700.0,950000000.0,702538.160469667,1,108.29781,-7.08697
+1460,01/2026/0054/1/0604,26,26N,Agung Fauzi,2026-11-10,Penawaran,TK,jln.,Desa Mekarwangi,Kecamatan Sukamantri,1272.0,1000000000.0,717433.445334712,1,108.28994,-7.08865
+1461,01/2026/0054/1/0605,201,201N,Zee Treaz,2026-11-10,Penawaran,TK,jl raya Banjarsari,Desa Sindangasih,Kecamatan Banjarsari,1120.0,463680000.0,377806.191780822,1,108.65104,-7.46156
+1462,01/2026/0054/1/0606,201,201N,Zee Treaz,2026-11-10,Penawaran,TK,jl raya Banjarsari,Desa Sindangasih,Kecamatan Banjarsari,395.0,107045000.0,247307.917808219,1,108.6425,-7.463
+1463,01/2026/0054/1/0607,196,196N,Zee Treaz,2026-11-10,Transaksi,TK,jl sindanghayu,Desa Sindanghayu,Kecamatan Banjarsari,1222.0,523016000.0,471269.04109589,1,108.63792,-7.47419
+1464,01/2026/0054/1/0608,196,196N,Zee Treaz,2026-11-10,Penawaran,TK,jl Banjarsari,Desa Purwasari,Kecamatan Banjarsari,140.0,59920000.0,390582.246575342,1,108.64263,-7.47634
+1465,01/2026/0054/1/0609,196,196N,Zee Treaz,2026-11-10,Penawaran,TK,jl Banjarsari,Desa Purwasari,Kecamatan Banjarsari,821.0,339894000.0,377806.191780822,1,108.64733,-7.47742
+1466,01/2026/0054/2/0857,244,244P,Zee Treaz,2026-11-10,Penawaran,TK,jl Banjarsari,Desa Purwasari,Kecamatan Banjarsari,6260.0,801280000.0,116809.643835616,2,108.64431,-7.47786
+1467,01/2026/0054/2/0858,244,244P,Zee Treaz,2026-11-10,Penawaran,TK,jl sindanghayu,Desa Sindanghayu,Kecamatan Banjarsari,2703.0,383826000.0,129585.698630137,2,108.63608,-7.47697
+1468,01/2026/0054/2/0859,244,244P,Zee Treaz,2026-11-10,Penawaran,TK,jl kendungkenda,Desa Sindangsari,Kecamatan Banjarsari,2047.0,290674000.0,129585.698630137,2,108.62625,-7.47741
+1469,01/2026/0054/1/0610,26,26N,Agung Fauzi,2026-11-10,Penawaran,TK,jl. sukamantri,Desa Mekarwangi,Kecamatan Sukamantri,207.0,125000000.0,551072.066706373,1,108.33947,-7.09438
+1470,01/2026/0054/1/0611,19,19N,Agung Fauzi,2026-11-08,Penawaran,B,jl raya Timur panjalu,Desa Panjalu,Kecamatan Panjalu,120.0,850000000.0,3768943.83561644,1,108.2725,-7.13467
+1471,01/2026/0054/1/0612,30,30N,Agung Fauzi,2026-11-10,Penawaran,TK,terusan jalan raya panjalu sukamantri,Desa Sukamantri,Kecamatan Sukamantri,933.0,400000000.0,391243.448002467,1,108.29855,-7.08377
+1472,01/2026/0054/1/0613,30,30N,Agung Fauzi,2026-11-10,Penawaran,TK,terusan jalan raya panjalu sukamantri,Desa Sukamantri,Kecamatan Sukamantri,933.0,400000000.0,391243.448002467,1,108.29855,-7.08377
+1473,01/2026/0054/1/0614,194,194N,Zee Treaz,2026-11-10,Transaksi,TK,jl kendungkenda,Desa Banjarsari,Kecamatan Banjarsari,842.0,390688000.0,511162.739726027,1,108.62281,-7.47872
+1474,01/2026/0054/1/0615,194,194N,Zee Treaz,2026-11-10,Penawaran,TK,jl Sindanglaya,Desa Sindangsari,Kecamatan Banjarsari,772.0,386000000.0,456287.671232877,1,108.6121,-7.47934

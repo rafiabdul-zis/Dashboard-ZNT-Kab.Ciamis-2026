@@ -9,26 +9,48 @@ arcpy.env.overwriteOutput = True
 
 base_dir = r"C:\Users\Rafi\.gemini\antigravity\scratch\Dashboard-ZNT-Kab.Ciamis-2026"
 data_dir = os.path.join(base_dir, "data")
-raw_qc_shp = os.path.join(data_dir, "raw", "qc", "QC_SURVEI071126.shp")
-excel_dir = r"C:\Users\Rafi\Documents\Proyek ZNT BPN\CIAMIS\Survei\QC\excel"
+
+# 1. Cari Shapefile QC terbaru
+raw_qc_shp = None
+candidate_qc = [
+    os.path.join(data_dir, "raw", "qc_1011", "QC_SURVEY101126.shp"),
+    os.path.join(data_dir, "raw", "qc", "QC_SURVEI091126.shp"),
+    os.path.join(data_dir, "raw", "qc", "QC_SURVEI071126.shp"),
+    r"c:\Users\Rafi\Documents\Proyek ZNT BPN\CIAMIS\Survei\QC\091126\QC_SURVEI091126.shp"
+]
+for c in candidate_qc:
+    if os.path.exists(c):
+        raw_qc_shp = c
+        break
+
+if not raw_qc_shp:
+    raise FileNotFoundError("Shapefile QC tidak ditemukan!")
+print(f"Menggunakan Shapefile QC: {raw_qc_shp}")
+
+# 2. Cari File Excel SIPENTA terbaru
 excel_path = None
-if os.path.exists(excel_dir):
+uploaded_dir = r"C:\Users\Rafi\.gemini\antigravity\brain\da1eabe1-ce26-4f5b-8b33-4414cd31c0da\.user_uploaded"
+if os.path.exists(uploaded_dir):
+    up_excels = [os.path.join(uploaded_dir, f) for f in os.listdir(uploaded_dir) if f.lower().endswith('.xlsx') and not f.startswith('~$')]
+    if up_excels:
+        up_excels.sort(key=os.path.getmtime, reverse=True)
+        excel_path = up_excels[0]
+
+excel_dir = r"c:\Users\Rafi\Documents\Proyek ZNT BPN\CIAMIS\Survei\QC\excel"
+if not excel_path and os.path.exists(excel_dir):
     excels = [os.path.join(excel_dir, f) for f in os.listdir(excel_dir) if f.lower().endswith('.xlsx') and not f.startswith('~$')]
     if excels:
         excels.sort(key=os.path.getmtime, reverse=True)
         excel_path = excels[0]
 
-if not excel_path or not os.path.exists(excel_path):
+if not excel_path:
     downloads = os.path.join(os.environ.get("USERPROFILE", ""), "Downloads")
     dl_excels = [os.path.join(downloads, f) for f in os.listdir(downloads) if f.lower().endswith('.xlsx') and 'survey' in f.lower() and not f.startswith('~$')]
     if dl_excels:
         dl_excels.sort(key=os.path.getmtime, reverse=True)
         excel_path = dl_excels[0]
 
-if not excel_path:
-    excel_path = r"C:\Users\Rafi\Documents\Proyek ZNT BPN\CIAMIS\Survei\QC\excel\Data-Survey_Kabupaten CIAMIS_01_2026_0054_20261108_014907.xlsx"
-
-print(f"Menggunakan file Excel SIPENTA: {os.path.basename(excel_path)}")
+print(f"Menggunakan file Excel SIPENTA: {os.path.basename(excel_path)} ({excel_path})")
 
 scratch_gdb = arcpy.env.scratchGDB
 wgs84 = arcpy.SpatialReference(4326)
@@ -103,7 +125,7 @@ with arcpy.da.SearchCursor(qc_simp, qc_fields + ['SHAPE@JSON']) as cursor:
             props['Surveyor'] = 'Zee Treaz'
         elif 'agung' in surv.lower():
             props['Surveyor'] = 'Agung Fauzi'
-        elif 'julio' in surv.lower():
+        elif 'julio' in surv.lower() or 'anjar' in surv.lower():
             props['Surveyor'] = 'Julio Arya'
         else:
             props['Surveyor'] = surv
@@ -216,7 +238,7 @@ with arcpy.da.InsertCursor(points_fc, insert_cols) as cursor:
             surv = 'Zee Treaz'
         elif 'agung' in surv_raw.lower():
             surv = 'Agung Fauzi'
-        elif 'julio' in surv_raw.lower():
+        elif 'julio' in surv_raw.lower() or 'anjar' in surv_raw.lower():
             surv = 'Julio Arya'
         else:
             surv = surv_raw
